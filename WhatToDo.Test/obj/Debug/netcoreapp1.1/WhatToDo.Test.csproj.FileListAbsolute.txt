@@ -1,0 +1,14 @@
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Test.deps.json
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Test.runtimeconfig.json
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Test.runtimeconfig.dev.json
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Test.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Test.pdb
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Service.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\bin\Debug\netcoreapp1.1\WhatToDo.Service.pdb
+C:\Krishna\Technical\Repo\WhatToDo.Test\obj\Debug\netcoreapp1.1\WhatToDo.Test.csprojResolveAssemblyReference.cache
+C:\Krishna\Technical\Repo\WhatToDo.Test\obj\Debug\netcoreapp1.1\WhatToDo.Test.AssemblyInfo.cs
+C:\Krishna\Technical\Repo\WhatToDo.Test\obj\Debug\netcoreapp1.1\WhatToDo.Test.dll
+C:\Krishna\Technical\Repo\WhatToDo.Test\obj\Debug\netcoreapp1.1\WhatToDo.Test.pdb
